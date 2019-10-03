@@ -748,7 +748,7 @@ impl Info {
             Language::Lisp => vec![Color::Yellow],
             Language::Lua => vec![Color::Blue],
             Language::Nim => vec![Color::Yellow, Color::BrightWhite],
-            Language::ObjectiveC => vec![Color::BrightBlue, Color::Blue],
+            Language::ObjectiveC => vec![Color::BrightBlue],
             Language::Python => vec![Color::Blue, Color::Yellow],
             Language::R => vec![Color::White, Color::Blue],
             Language::Ruby => vec![Color::Magenta],
